@@ -1,4 +1,4 @@
-import "./index.css";
+import "./index.scss";
 
 export const style = {
     root: {
